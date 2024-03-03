@@ -1,0 +1,6 @@
+openai
+streamlit
+wave
+pyaudio
+google.generativeai
+python-dotenv

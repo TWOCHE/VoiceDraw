@@ -1,0 +1,4 @@
+/.env
+/img
+/voice_prompt.wav
+/__pycache__
